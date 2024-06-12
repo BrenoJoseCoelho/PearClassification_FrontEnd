@@ -5,7 +5,7 @@ import axios from 'axios';
 export function MainPage() {
   const [showInput, setShowInput] = useState(false);
   const [selectedFile, setSelectedFile] = useState(null);
-  const [kValue, setKValue] = useState('');
+  const [kValue, setKValue] = useState('3');
   const [selectedOption, setSelectedOption] = useState('');
   const [errorMessage, setErrorMessage] = useState('');
   const [resultFile, setResultFile] = useState('');
