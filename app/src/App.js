@@ -1,9 +1,11 @@
-//import { Routes, Route } from "react-router-dom";
-import { MainPage } from "./pages/MainPage.jsx";
+import React from 'react';
+import { MainPage } from './pages/MainPage.jsx'; 
 
 function App() {
   return (
-  <MainPage />
+    <div className="App">
+      <MainPage />
+    </div>
   );
 }
 
