@@ -1,8 +1,9 @@
 # PearClassification_FrontEnd
 Tntegrated project work 3
-# Nome do Seu Projeto
+# PearClassification
 
-Breve descrição do seu projeto aqui.
+Projeto desenvolvido para a materia de Projeto Integrador 3 da faculdade, no qual se conecta com um back-end
+Esse projeto manda um CSV para o back-end e recebe de volta os valores com a qualidade das peras se são Boas ou Ruins
 
 ## Como começar
 
